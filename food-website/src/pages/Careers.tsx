@@ -29,7 +29,7 @@ const Careers: React.FC = () => {
   ];
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-orange-50 via-orange-100 to-orange-200 pt-32">
+    <div className="min-h-screen bg-linear-to-br from-orange-50 via-orange-100 to-orange-200 pt-32">
       <div className="container mx-auto px-6 py-20">
         <h1 className="text-5xl font-bold text-center text-gray-800 mb-6">Join Our Team</h1>
         <p className="text-xl text-gray-600 text-center max-w-2xl mx-auto mb-12">

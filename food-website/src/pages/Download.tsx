@@ -3,7 +3,7 @@ import { FaApple, FaGooglePlay } from 'react-icons/fa';
 
 const Download: React.FC = () => {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-orange-50 via-orange-100 to-orange-200 pt-32">
+    <div className="min-h-screen bg-linear-to-br from-orange-50 via-orange-100 to-orange-200 pt-32">
       <div className="container mx-auto px-6 py-20">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div>
@@ -31,7 +31,7 @@ const Download: React.FC = () => {
           <div className="flex justify-center">
             <div className="relative">
               <div className="bg-white rounded-3xl shadow-2xl p-8 max-w-xs">
-                <div className="bg-gradient-to-br from-orange-500 to-orange-600 rounded-2xl p-4 text-white text-center">
+                <div className="bg-linear-to-br from-orange-500 to-orange-600 rounded-2xl p-4 text-white text-center">
                   <h3 className="text-2xl font-bold mb-2">FoodieHeaven</h3>
                   <p className="text-orange-100">Delicious food delivered</p>
                 </div>

@@ -2,7 +2,7 @@ import React from 'react';
 
 const OnboardRestaurant: React.FC = () => {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-orange-50 via-orange-100 to-orange-200 pt-32">
+    <div className="min-h-screen bg-linear-to-br from-orange-50 via-orange-100 to-orange-200 pt-32">
       <div className="container mx-auto px-6 py-20">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div>
